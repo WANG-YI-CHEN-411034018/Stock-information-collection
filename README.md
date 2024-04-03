@@ -1,0 +1,2 @@
+# Stock-information-collection
+從twstock庫中提取特定股票的交易數據，然後將其轉換成DataFrame格式的資料表，最後將這些資料存儲為CSV文件
